@@ -918,6 +918,7 @@
       "getPagingInfo": getPagingInfo,
       "getItems": getItems,
       "setItems": setItems,
+      "setItems1": setItems,
       "setFilter": setFilter,
       "sort": sort,
       "fastSort": fastSort,
